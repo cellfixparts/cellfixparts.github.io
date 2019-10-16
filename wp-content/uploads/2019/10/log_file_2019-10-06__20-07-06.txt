@@ -1,0 +1,108 @@
+
+---Downloaded files---
+The import files for: megashop-multistore were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888/CellFixParts
+Data file = /Users/home/Desktop/Sites/CellFixParts/wp-content/themes/megashop-multistore/demo-content/default/multistore.wordpress.xml
+Widget file = /Users/home/Desktop/Sites/CellFixParts/wp-content/themes/megashop-multistore/demo-content/default/multistore_widgets_settings.wie
+Customizer file = /Users/home/Desktop/Sites/CellFixParts/wp-content/themes/megashop-multistore/demo-content/default/multistore_customizer_export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+shop-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Product Categories - Product categories - Imported to Inactive
+Filter Products by Price - Filter by price - Imported to Inactive
+Filter Products by Attribute - Filter by color - Imported to Inactive
+Filter Products by Attribute - Filter by size - Imported to Inactive
+Product Tag Cloud - Product tags - Imported to Inactive
+Products - On-sale - Imported to Inactive
+
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+Recent Posts - No Title - Imported
+
+Header Shopping Cart Widget Area : 
+
+Cart - Cart - Imported
+
+Header Search Widget Area : 
+
+Product Search - No Title - Imported
+
+Product Category Widget Area : 
+
+Product Categories - Product categories - Imported
+
+ Single Product Page Sidebar Area : 
+
+Visual Editor - No Title - Imported
+CMS Block - No Title - Imported
+
+Single Product CMS Tab : 
+
+Visual Editor - No Title - Imported
+
+First Footer Widget Area : 
+
+Footer Contact Us - Contact Us - Imported
+
+Second Footer Widget Area : 
+
+Static Links - About - Imported
+
+Third Footer Widget Area : 
+
+Static Links - Help - Imported
+
+Fourth Footer Widget Area : 
+
+Static Links - Policy - Imported
+
+Fifth Footer Widget Area : 
+
+Newsletter - Subscribe Now - Imported
+
+Footer Bottom Widget Area : 
+
+WooCommerce Accepted Payment Methods - Accepted Payment Methods - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+Slider processed
